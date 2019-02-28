@@ -13,5 +13,5 @@
  ==============================================
  */
 
-var GT511C3 = require('./lib/gt511c3');
+var GT511C3 = require('./gt511c3');
 module.exports = GT511C3;
